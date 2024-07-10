@@ -3,4 +3,5 @@ This mod saves all level's Disable Shake info so when you restart the game, Disa
 
 ## Credits
 Viper - Developer
+
 Suntle - Mod Icon
