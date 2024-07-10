@@ -1,11 +1,11 @@
 #include <Geode/Geode.hpp>
 
 using namespace geode::prelude;
-//#define m_disableShakeToggled 
+#define m_k112_L
 #include <Geode/modify/LevelInfoLayer.hpp>
 bool val = false;
 void setlevel(auto level, bool val) {
-	#ifdef m_disableShakeToggled
+	#ifndef m_k112_L
 		level->m_disableShakeToggled = val;
 	#else
 		level->m_k112 = val;
@@ -13,7 +13,7 @@ void setlevel(auto level, bool val) {
 };
 
 bool getval(auto level) {
-	#ifdef m_disableShakeToggled
+	#ifndef m_k112_L
 		return level->m_disableShakeToggled;
 	#else
 		return level->m_k112;

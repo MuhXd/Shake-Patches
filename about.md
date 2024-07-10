@@ -1,3 +1,8 @@
-# Save Shake
+# Keep Shake
 This mod saves all level's Disable Shake info so when you restart the game, Disable Shake is still on for that level.
-Disables all levels shake automatically.
+
+<img src="logo.png" width="100%" alt="logo" />
+
+## Credits
+Viper - Developer
+Suntle - Mod Icon

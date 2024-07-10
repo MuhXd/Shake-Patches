@@ -6,14 +6,14 @@
 		"mac": "2.206",
 		"ios": "2.206"
 	},
-	"id": "viper.save_shake",
-	"name": "Save Shake",
+	"id": "viper.keep_shake",
+	"name": "Keep Shake",
 	"version": "v1.0.0",
 	"developer": "Viper",
 	"settings": {
 		"Auto-NoShake": {
 			"name": "Auto Disable Shake",
-			"description": "Disables shake in the level automaticly",
+			"description": "Disables all levels shake automatically.",
 			"type": "bool",
 			"default": false
 		}
