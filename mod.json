@@ -1,0 +1,22 @@
+{
+	"geode": "3.2.0",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "viper.save_shake",
+	"name": "Save Shake",
+	"version": "v1.0.0",
+	"developer": "Viper",
+	"settings": {
+		"Auto-NoShake": {
+			"name": "Auto Disable Shake",
+			"description": "Disables shake in the level automaticly",
+			"type": "bool",
+			"default": false
+		}
+	},
+	"description": "Saves the shake option on a level (when you enable or disable it)"
+}
