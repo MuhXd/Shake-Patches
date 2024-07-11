@@ -7,8 +7,11 @@
 		"ios": "2.206"
 	},
 	"id": "viper.keep_shake",
+	"tags": [
+        	"bugfix","utility"
+    	],
 	"name": "Keep Shake",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "Viper",
 	"settings": {
 		"Auto-NoShake": {
