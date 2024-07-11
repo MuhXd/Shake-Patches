@@ -16,7 +16,7 @@
 	"settings": {
 		"Auto-NoShake": {
 			"name": "Auto Disable Shake",
-			"description": "Disables all levels shake automatically.",
+			"description": "Disables all levels shake automatically. (option saves if you enabled it while on!)",
 			"type": "bool",
 			"default": false
 		}
